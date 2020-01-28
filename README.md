@@ -13,4 +13,6 @@ The right and left key move the fallling piece accordingly, the up key rotates t
 ## Level system
 For every 10 lines cleared during a game, the level is increased by 1. Higher leavels have higher falling speeds for the falling piece (maximum speed is reached at level 7)
 
+![Tetris game](Screenshot.png?raw=true "Title")
+
 
