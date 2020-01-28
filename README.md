@@ -1,4 +1,4 @@
-# tetris
+# Tetris
 A game made inspired by the classic Tetris
 
 Built with the SFML C++ library, which is necessary for running the game.
