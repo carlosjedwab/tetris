@@ -9,9 +9,9 @@ With SFML installed, run the run.py script to open the game.
 ![Tetris game](Screenshot.png?raw=true "Title")
 
 # Game mechanics
-## Key commands
+### Key commands
 The right and left key move the fallling piece accordingly, the up key rotates the falling piece, the down key makes the falling piece fall slightly faster
-## Level system
+### Level system
 For every 10 lines cleared during a game, the level is increased by 1. Higher levels have higher falling speeds for the falling piece (maximum speed is reached at level 7)
 
 # Some simple customization
